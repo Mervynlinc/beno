@@ -25,7 +25,7 @@ const _Layout = () => {
                 <View>
                     <Image
                     source={icon}
-                    className="size-5 justify-center items-center mt-4  overflow-hidden mt-2 justify-center items-center ease-in duration-700">
+                    className="size-5 justify-center items-center mt-4  overflow-hidden  ease-in duration-700">
 
                     </Image>
                 </View>
